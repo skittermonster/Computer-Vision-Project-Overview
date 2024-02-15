@@ -22,14 +22,14 @@ The assignment aims to apply the skills and knowledge you have acquired about im
 
     - Ensure the dataset is diverse and representative of the problem. 
 
-    - Your dataset should contain at least [specify number] images. 
+    - Your dataset should contain at least 20 images/student. 
 - Option 2 - Annotate Existing Data: 
 
     - Select an existing vision dataset. 
 
     - Create new labels or annotations for a subset of this dataset. 
 
-    - The subset should include at least [specify number] images. 
+    - The subset should include at least 20 images/student. 
 ### Annotation Guidelines: 
 
   - Clearly define the labels or annotations you will use. 
@@ -51,8 +51,7 @@ The assignment aims to apply the skills and knowledge you have acquired about im
 
   - Challenges faced and how they were addressed. 
 ### Submission Format: 
-
-  Submit your report as a PDF file on canvas.  
+Refer to canvas assignments to get better understanding of submission format.
 
  
 
@@ -122,9 +121,7 @@ You can use one of the following tools for annotation:
 
  
 
-**Recommendation:** 
 
-Based on my previous experience, Label Studio is recommended. It offers a balance of user-friendliness and flexibility, suitable for various annotation tasks, such as image captioning, audio files annotation so and so forth. However, the other tools listed also provide valuable features and may be more suited to specific needs or preferences. 
 
  
 
