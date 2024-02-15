@@ -41,15 +41,15 @@ The assignment aims to apply the skills and knowledge you have acquired about im
 
   - Provide a document outlining: 
 
-  - Your chosen problem and its significance. 
+   - Your chosen problem and its significance. 
 
-  - The source of your images (for new datasets) or the name and source of the existing dataset (for annotation tasks). #add links for annotation tools 
+   - The source of your images (for new datasets) or the name and source of the existing dataset (for annotation tasks).
 
-  -  methodology used for collecting or annotating the dataset. 
+   -  methodology used for collecting or annotating the dataset. 
 
-  - Snippets from your dataset (both images and labels) 
+   - Snippets from your dataset (both images and labels) 
 
-  - Challenges faced and how they were addressed. 
+   - Challenges faced and how they were addressed. 
 ### Submission Format: 
 Refer to canvas assignments to get better understanding of submission format.
 
