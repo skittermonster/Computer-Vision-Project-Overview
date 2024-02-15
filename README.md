@@ -22,14 +22,14 @@ The assignment aims to apply the skills and knowledge you have acquired about im
 
     - Ensure the dataset is diverse and representative of the problem. 
 
-    - Your dataset should contain at least 20 images(in each category)/student. 
+    - refer to canvas to get more details
 - Option 2 - Annotate Existing Data: 
 
     - Select an existing vision dataset. 
 
     - Create new labels or annotations for a subset of this dataset. 
 
-    - The subset should include at least 20 images(in each category)/student. 
+    - Refer to canvas for more details 
 ### Annotation Guidelines: 
 
   - Clearly define the labels or annotations you will use. 
@@ -37,19 +37,7 @@ The assignment aims to apply the skills and knowledge you have acquired about im
   - For detection, segmentation, or tracking tasks, annotate each image with bounding boxes or segmentation masks, as appropriate. 
 
   - Ensure annotations are accurate and consistent. 
-### Report: 
 
-  - Provide a document outlining: 
-
-   - Your chosen problem and its significance. 
-
-   - The source of your images (for new datasets) or the name and source of the existing dataset (for annotation tasks).
-
-   -  methodology used for collecting or annotating the dataset. 
-
-   - Snippets from your dataset (both images and labels) 
-
-   - Challenges faced and how they were addressed. 
 ### Submission Format: 
 Refer to canvas assignments to get better understanding of submission format.
 
