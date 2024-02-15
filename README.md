@@ -22,14 +22,14 @@ The assignment aims to apply the skills and knowledge you have acquired about im
 
     - Ensure the dataset is diverse and representative of the problem. 
 
-    - Your dataset should contain at least 20 images/student. 
+    - Your dataset should contain at least 20 images(in each category)/student. 
 - Option 2 - Annotate Existing Data: 
 
     - Select an existing vision dataset. 
 
     - Create new labels or annotations for a subset of this dataset. 
 
-    - The subset should include at least 20 images/student. 
+    - The subset should include at least 20 images(in each category)/student. 
 ### Annotation Guidelines: 
 
   - Clearly define the labels or annotations you will use. 
