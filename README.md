@@ -16,20 +16,18 @@ The assignment aims to apply the skills and knowledge you have acquired about im
   - Pose estimation 
   - Tracking 
 ### Dataset Creation/Enhancement: 
-- Option 1 - Create New Data: 
+- Step 1 - Find Existing Data: 
 
-    - Collect and assemble a dataset of images relevant to your chosen problem. 
+    - For your specific problem, find existing data online in repositories to use for your project
+    - Check if the dataset is diverse and representative of the problem.
+    - If dataset is not annotated, you need to annotate the data
+      
+- Step 2 - Annotate New Data: 
 
-    - Ensure the dataset is diverse and representative of the problem. 
+    - Search and compile or create new data to add to your database 
+    - Create new labels or annotations for a subset of this dataset.
+    - Add 30 new images per person in the group
 
-    - refer to canvas to get more details
-- Option 2 - Annotate Existing Data: 
-
-    - Select an existing vision dataset. 
-
-    - Create new labels or annotations for a subset of this dataset. 
-
-    - Refer to canvas for more details 
 ### Annotation Guidelines: 
 
   - Clearly define the labels or annotations you will use. 
